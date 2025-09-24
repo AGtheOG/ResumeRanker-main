@@ -35,5 +35,5 @@ This project uses Natural Language Processing (NLP) and semantic similarity tech
 5. Skill Comparison : Identifies overlap and gaps between JD skills and candidate skills.
 
 # App Hosted 
-https://resumeranker-streamlt0.streamlit.app
+[https://resumeranker-streamlt0.streamlit.app](https://resumeranker-by-arin.streamlit.app/)
 
